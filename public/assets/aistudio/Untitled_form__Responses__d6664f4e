@@ -1,0 +1,32 @@
+Timestamp,1. Which number system uses only the digits 0 and 1?,2. The radix (base) of the hexadecimal number system is:,3. Which code is primarily used for error detection?,4. Which of the following is a weighted code?,"  5. According to Boolean algebra, A+0=","  6. According to Boolean algebra, A⋅1=",  7. Which logic gate is known as the Universal Gate?  ,8. The output of an XOR gate is HIGH when: ,  9. Hamming Code is mainly used for:  ,  10. Which Boolean law is represented by A+A=A?  ,Roll No.,1. Which number system uses only the digits 0 and 1?
+8/5/2026 14:41:55,,16,BCD Code,ASCII Code,A,A,NAND Gate,The inputs are different,Number conversion,De Morgan's Law,160925748010,Binary
+8/5/2026 14:42:56,,10,BCD Code,BCD (8421) Code,A,0,NAND Gate,All inputs are HIGH,Error detection and correction,Idempotent Law,160925748011,Binary
+8/5/2026 14:43:03,,16,BCD Code,BCD (8421) Code,0,A,NAND Gate,The inputs are different,Number conversion,Idempotent Law,160925748040,Binary
+8/5/2026 14:43:26,,10,Excess-3 Code,Excess-3 Code,A,A',AND Gate,,Error detection and correction,Idempotent Law,160925748042,Binary
+8/5/2026 14:43:28,,2,Excess-3 Code,ASCII Code,A,A',NAND Gate,All inputs are HIGH,Data compression,De Morgan's Law,160925748043,Binary
+8/5/2026 14:43:58,,10,Excess-3 Code,Gray Code,A,A,AND Gate,The inputs are different,Number conversion,De Morgan's Law,160925748006,Binary
+8/5/2026 14:44:01,,16,Excess-3 Code,Gray Code,A,A,NAND Gate,Both inputs are 0,Error detection and correction,De Morgan's Law,160925748034,Binary
+8/5/2026 14:44:07,,16,Gray Code,BCD (8421) Code,A',A,AND Gate,The inputs are different,Number conversion,Identity Law,160925748002,Binary
+8/5/2026 14:44:09,,16,Excess-3 Code,ASCII Code,A,1,AND Gate,The inputs are different,Data compression,Idempotent Law,160925748033,Binary
+8/5/2026 14:44:11,,16,Parity Code,BCD (8421) Code,A,A',NAND Gate,Both inputs are 1,Error detection and correction,Idempotent Law,160925748017,Binary
+8/5/2026 14:44:15,,2,Parity Code,ASCII Code,0,A',NAND Gate,Both inputs are 1,Error detection and correction,Identity Law,160925748044,Decimal
+8/5/2026 14:44:35,,10,BCD Code,Excess-3 Code,1,A,NAND Gate,All inputs are HIGH,Error detection and correction,Identity Law,160925748060,Decimal
+8/5/2026 14:44:39,,16,Parity Code,BCD (8421) Code,A,A,NAND Gate,All inputs are HIGH,Data compression,Identity Law,160925748037,Binary
+8/5/2026 14:44:48,,16,Parity Code,BCD (8421) Code,1,A,NAND Gate,All inputs are HIGH,Data compression,De Morgan's Law,160925748041,Binary
+8/5/2026 14:44:56,,16,Gray Code,BCD (8421) Code,A',0,NAND Gate,The inputs are different,Data compression,Identity Law,160925748039,Binary
+8/5/2026 14:45:09,,16,Parity Code,BCD (8421) Code,A,A',NAND Gate,The inputs are different,Error detection and correction,Complement Law,160925748057,Binary
+8/5/2026 14:45:16,,16,Parity Code,BCD (8421) Code,A,A',NAND Gate,The inputs are different,Error detection and correction,Idempotent Law,160925748029,Binary
+8/5/2026 14:45:19,,16,Parity Code,BCD (8421) Code,A,A,NAND Gate,The inputs are different,Error detection and correction,Idempotent Law,160925748050,Binary
+8/5/2026 14:45:19,,8,Excess-3 Code,ASCII Code,0,A,NAND Gate,The inputs are different,Data compression,De Morgan's Law,160925748003,Binary
+8/5/2026 14:45:20,,16,Parity Code,BCD (8421) Code,A,A,NAND Gate,The inputs are different,Error detection and correction,Idempotent Law,160925748024,Binary
+8/5/2026 14:45:21,,16,Parity Code,BCD (8421) Code,A,A,NAND Gate,The inputs are different,Memory addressing,Identity Law,160925748026,Binary
+8/5/2026 14:45:24,,16,Excess-3 Code,BCD (8421) Code,1,A',NAND Gate,The inputs are different,Error detection and correction,Idempotent Law,160925748046,Binary
+8/5/2026 14:45:27,,16,Gray Code,BCD (8421) Code,A,1,NAND Gate,Both inputs are 1,Data compression,Identity Law,160925748007,Binary
+8/5/2026 14:45:27,,8,BCD Code,BCD (8421) Code,A,A,NAND Gate,All inputs are HIGH,Error detection and correction,Idempotent Law,160925748051,Binary
+8/5/2026 14:45:43,,16,Parity Code,Excess-3 Code,A,A',NAND Gate,The inputs are different,Error detection and correction,De Morgan's Law,160925748019,Binary
+8/5/2026 14:45:50,,16,Parity Code,ASCII Code,A,1,NAND Gate,The inputs are different,Error detection and correction,Idempotent Law,160925748021,Binary
+8/5/2026 14:45:59,,16,Parity Code,ASCII Code,A,1,NAND Gate,Both inputs are 1,Error detection and correction,Idempotent Law,160925748054,Binary
+8/5/2026 14:46:07,,16,Parity Code,BCD (8421) Code,A,A,NAND Gate,The inputs are different,Error detection and correction,Idempotent Law,160925748025,Binary
+8/5/2026 14:46:20,,16,Parity Code,BCD (8421) Code,A,A,NAND Gate,The inputs are different,Error detection and correction,Idempotent Law,16092574847,Binary
+8/5/2026 14:46:29,,16,Parity Code,BCD (8421) Code,A,A,NAND Gate,The inputs are different,Error detection and correction,Idempotent Law,160925748045,Binary
+8/5/2026 14:51:45,,16,Parity Code,BCD (8421) Code,0,A',NAND Gate,The inputs are different,Error detection and correction,Idempotent Law,301,Binary

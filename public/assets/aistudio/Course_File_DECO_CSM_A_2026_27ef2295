@@ -1,0 +1,4100 @@
+﻿LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Survey No.32, Himayath Sagar, Near TSPA Junction, Hyderabad-500091
+Department of CSM
+
+
+Name of the Course File: DECO
+Course Code: U24EC304
+ 
+	
+
+B.E. (Bachelor of Engineering)
+Branch: - CSM
+Semester – III-A
+A.Y: 2026-2027
+
+
+Prepared by:
+Dr. Abdul Mateen Ahmed
+Professor 
+Department of Electronics and Communication Engineering
+
+
+
+
+
+
+
+
+
+
+  
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Survey No.32, Himayath Sagar, near TSPA Junction, Hyderabad-500091
+Department of CSM
+Certificate
+
+
+This is to certify that Dr. Abdul Mateen Ahmed
+Professor, Department of Electronics and Communication Engineering
+has completed all the requirements of the Course File as per the content given below of DECO Course Code: U24EC304 during Academic Year-2026 -2027, B.E. (CSM) III – Semester.
+
+
+
+
+
+
+Course Coordinator                                                                Head of the Department
+
+
+
+
+
+
+
+
+
+
+Central Course File Coordinator                        Dean Academic                        Dean IQAC        
+
+
+
+
+                
+________________
+
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+  CSM  
+
+
+Course File Contents:
+Name of the Course: DECO
+	A.Y: 2026
+	 Name of the Faculty: Dr. Abdul Mateen Ahmed
+	Class: B.E III Semester
+	S. No.
+	Content
+	Time line
+	1.
+	Cover Page
+	Before the Sem.
+	2.
+	IQAC verification page
+	Before/during/after
+	3.
+	Content Page
+	Before the Sem.
+	4.
+	Vision and Mission of the Institute – Principal signed Xerox copy
+	Before the Sem.
+	5.
+	Vision and Mission of the Department, PEOs, POs and PSOs – HoD signed Xerox copy
+	Before the Sem.
+	6.
+	Course Syllabus – Xerox copy from university curriculum book
+	Before the Sem.
+	7.
+	Academic Calendar –given by University - Xerox copy
+	Before the Sem.
+	8.
+	Class Time table – Signed and Xerox copy 
+(highlighting the course periods including tutorial)
+	Before the Sem.
+	9.
+	Lesson Plan with S.No as L.No, Topic, Teaching aid (TA)/Methodology (TM), Text/Reference book and web references.
+	Before the Sem.
+	10.
+	1. Course Outcomes (COs) – Minimum 5 or 6 Based on syllabus covering each unit with BT level mapped
+2. Course Outcomes Mapping with POs and PSOs
+3. Justification for CO-PO and CO-PSO mapping
+	Before the Sem.
+	11.
+	Gaps Identified and Corrective action taken by Faculty 
+	Before the Sem.
+	12.
+	Corrective action – Single page report
+	Before the Sem.
+	13.
+	Brief notes on the importance of the course
+	Before the Sem.
+	14.
+	Lecture Notes - Unit wise including gaps
+	Before the Sem.
+	15.
+	List of Power Point Presentations / Videos along with CD
+	Before the Sem.
+	16.
+	Question Papers
+1. University Question Papers (3 previous years Xerox copies)
+2. Unit wise short and long answer question bank
+3. Unit wise Quiz Questions
+	Before the Sem.
+	17.
+	Surprise Test / Quizzes / MCQ’s / Fill in the Blanks / Any other activity specified by Respective Teacher and Question Papers mapped with CO and BTL with solutions (Award list, Xerox copy of any 3 students answer scripts)
+	During the sem.
+	18.
+	Real Time Project / Field Work / Exclusive Talk / Assignment /Any other activity specified by Respective Teacher and Question Papers mapped with CO and BTL with solutions (Award list, Xerox copy of any 3 students answer scripts)
+	During the sem.
+	19.
+	Internal Question Papers mapped with CO and BTL (Present sem course and previous 3 years Xerox copy) with solutions (Award list, Xerox copy of any 3 students answers scripts)
+	During the sem.
+	20.
+	Scheme of evaluation with CO and BTL mapping
+	During the sem.
+	21.
+	Tutorial topics with evidence both material and attendance
+	During the sem.
+	22.
+	   Three lists of slow and advanced learners – 
+1. Based on previous semester/upto to previous semester. 
+2. Based on faculty observations upto 3 weeks.
+3. Based on 1st mid exams.
+	During the sem.
+	23.
+	Remedial class for slow learners: schedule and contents/materials.
+	During the sem.
+	S. No.
+	Content
+	Time line
+	24.
+	Remedial class attendance sheet with delivery record
+	During the sem.
+	25.
+	Advance Learners – Engagement documentation
+	During the sem.
+	26.
+	List of student certifications in relevant NPTEL/other MOOC courses
+	During the sem.
+	27.
+	Course Assessment (Plan & Execution)
+	Before/after
+	28.
+	Course end survey form, filled forms and analysis
+	After the sem.
+	29.
+	Students feedback on faculty and TL analysis, corrective measured planned – 3rd & 13th week
+	After the sem.
+	30.
+	Result Analysis at the end of the course
+	After the sem.
+	31.
+	Observation for not attaining CO or for improvement
+	After the sem.
+	32.
+	Plan of action to improve CO attainment next time
+	After the sem.
+	33.
+	Attendance register (including Theory/Tutorial) –Teacher/Course delivery record, continuous evaluation
+	During the sem.
+	34.
+	Course file (Digital form) – all the above contents
+	After the sem.
+	
+
+
+
+
+
+________________
+
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Department of CSM  
+Syllabus/Lesson Plan:
+Course Title: DECO
+	Course Code   :  U24EC304
+	L-T-P/D      : 5-0-0/0
+	Credits: 3
+	Contact Hrs: 5 Hours/Week
+	CIE Marks     : 40
+	SEE Marks: 60
+	Total Marks: 100
+	Teaching Hrs : 50
+	Exam Duration: 3 hours
+	
+
+L. No.
+	Topic
+	Teaching Aids/ Methodology
+	BTL 
+of 
+Delivery
+	References
+	Tentative Date
+	Week
+	Unit-I: 
+	1
+	
+
+ Introduction to DECO: Co’s, Po’s and Pso’s
+	Chalk and Talk/PPT
+	01
+	SR2, W1
+	4-08-2026
+	1
+	2
+	
+
+ Basic Structure of Computers Introduction
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	5-08-2026
+	3
+	
+
+ Functional units
+ 
+
+
+	Chalk and Talk/PPT
+	03
+	SR2, W1
+	6-08-2026
+	4
+	Basic operational concepts, Bus structures, Software
+
+
+	Practical from Website
+	03
+	SR2, W1
+	7-08-2026
+	5
+	Performance, multiprocessors and multi computers
+
+
+	Chalk and Talk/PPT
+	03
+	SR2, W1
+	11-08-2026
+	6
+	Data Representation: Binary Numbers Fixed Point Representation
+
+
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	12-08-2026
+	2
+	7
+	Floating – Point 
+Representation
+	Chalk and Talk/PPT
+	03
+	SR2, W1
+	13-08-2026
+	8
+	Number base conversions, Octal and Hexadecimal Numbers
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	14-08-2026
+	9
+	Examples 1-5
+	Chalk and Talk/PPT
+	03
+	SR2, W1
+	4-08-2026
+	10
+	Examples 6-10
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	18-08-2026
+	11
+	complements, Signed binary numbers, 
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	19-08-2026
+	3
+	12
+	Examples 1-5
+	Chalk and Talk/PPT
+	02
+	1
+	20-08-2026
+	13
+	Arithmetic addition and subtraction, Binary codes
+	Chalk and Talk/PPT
+	03
+	SR3, W1
+	21-08-2026
+	14
+	Examples 1-5
+	Chalk and Talk/PPT
+	02
+	SR3, W1
+	22-08-2026
+	15
+	Examples 6-10
+	Chalk and Talk/PPT
+	02
+	SR3, W1
+	25-08-2026
+	Unit-II:
+	16
+	
+
+ Switching Theory& Digital Logic Circuits Introduction
+
+
+	Chalk and Talk/PPT
+	02
+	SR3, W1
+	27-08-2026
+	4
+	17
+	Boolean Algebra and switching functions
+	Chalk and Talk/PPT
+	03
+	SR3, W1
+	28-08-2026
+	18
+	Basic Logic Functions, Logic gates, 
+	Chalk and Talk/PPT
+	02
+	SR3, W1
+	29-08-2026
+	19
+	Universal logic gates, reducing Boolean Expressions
+	Chalk and Talk/PPT
+	02
+	SR3, W1
+	31-08-2026
+	20
+	Minimization of switching functions – SOP, POS forms, K-Maps – Two, Three and Four variable
+	Chalk and Talk/PPT
+	03
+	SR3, W1
+	1-09-2026
+	5
+	21
+	Examples 1-5
+	Practicals from lab
+	02
+	SR3, W1
+	2-09-2026
+	22
+	Examples 6-10
+	Chalk and Talk/PPT
+	02
+	SR3, W1, V1
+	3-09-2026
+	Surprise Test-1 
+(After Completion of 1.5 Units)
+	23
+	Combinational Circuits – Half adder
+	Chalk and Talk/PPT
+	02
+	SR3, W1
+	5-09-2026
+	
+
+	24
+	Full adder
+	Chalk and Talk/PPT
+	03
+	SR3, W1
+	7-09-2026
+	25
+	Surprise Test-1 
+
+
+	Chalk and Talk/PPT
+	
+
+	
+
+	8-09-2026
+	26
+	Sequential Circuits - Flip-flops Registers
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	9-09-2026
+	27
+	Binary counters 
+	Chalk and Talk/PPT
+	03
+	SR2, W1
+	10-09-2026
+	
+
+	28
+	Decoders
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	11-09-2026
+	Unit-III:
+	29
+	
+
+ Computer Arithmetic & Basic processing unit: Introduction
+
+
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	15-09-2026
+	6
+	30
+	Algorithms for multiplication and division operations
+
+
+	Chalk and Talk/PPT
+	03
+	SR2, W1
+	16-09-2026
+	31
+	Instruction Set & Instruction Formats, 
+
+
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	17-09-2026
+	32
+	Addressing Modes, Basic Machine Instructions
+	Chalk and Talk/PPT
+	02
+	SR2, W5
+	18-09-2026
+	33
+	Question Bank
+	Chalk and Talk/PPT
+	03
+	1
+	19-09-2026
+	
+
+	34
+	Revision
+	Chalk and Talk/PPT
+	02
+	1
+	21-09-2026
+	35
+	Doubts Clearance
+	Chalk and Talk/PPT
+	02
+	1
+	22-09-2026
+	CIE-1 (1-8 Weeks)
+(10-09-2026 to 12-09-2026)
+	36
+	Register Transfer Language and Micro operations 
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	30-09-2026
+	7
+	37
+	Register Transfer Language, Register
+	Chalk and Talk/PPT
+	03
+	SR2, W1
+	22-09-2026
+	38
+	Transfer, Arithmetic, Logic, Shift Micro operations. 
+
+
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	22-09-2026
+	39
+	Microprogrammed control: Control memory, address sequencing
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	22-09-2026
+	40
+	Micro program example 1
+	Chalk and Talk/PPT
+	03
+	SR2, W1
+	22-09-2026
+	
+
+	41
+	Micro program example 2
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	22-09-2026
+	2Surprise Test-2 
+(After Completion of 3 Units)
+	Unit-IV:
+	42
+	Input/ Output & Memory Organization 
+Input Output Organization: Intro
+
+
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	22-09-2026
+	8
+	43
+	Peripheral devices, Input-output Interface 
+
+
+	Chalk and Talk/PPT
+	03
+	SR2, W1
+	23-09-2026
+	44
+	Asynchronous Data Transfer
+
+
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	24-09-2026
+	45
+	Modes of Transfer - Priority interrupt
+
+
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	25-09-2026
+	46
+	Direct Memory Access, 
+
+
+	Chalk and Talk/PPT
+	03
+	SR2, W1
+	26-09-2026
+	47
+	Surprise Test-2
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	06/10/2026
+	9
+	48
+	Concept of Memory, RAM, ROM memories
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	07/10/2026
+	49
+	Memory hierarchy
+	Chalk and Talk/PPT
+	03
+	SR2, W1
+	08/10/2026
+	50
+	Cache memory and Mapping
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	09/10/2026
+	51
+	Secondary storage
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	10/10/2026
+	52
+	Examples 1-5
+	Physical Memory
+	03
+	SR2, W1
+	11/10/2026
+	10
+	53
+	Examples 5-10
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	14/10/2026
+	54
+	Revision
+	Chalk and Talk/PPT
+	03
+	1
+	15/10/2026
+	55
+	Doubts and Answers Discussion
+	Chalk and Talk
+	03
+	1
+	16/10/2026
+	Unit-V:
+	56
+	Pipelining 
+Reduced Instruction Set Computer: Introduction 
+
+
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	17/10/2026
+	
+
+	57
+	CISC Characteristics
+	Chalk and Talk/PPT
+	03
+	SR2, W1
+	18/10/2026
+	58
+	RISC Characteristics
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	21/10/2026
+	59
+	Pipelining: Basic Concepts
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	22/10/2026
+	60
+	Data Hazards, Instruction Hazards
+	Chalk and Talk/PPT
+	03
+	SR2, W1
+	23/10/2026
+	61
+	Influence on Instruction sets, Data path and control considerations
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	24/10/2026
+	
+
+
+
+	62
+	Super Scalar Operation
+	Chalk and Talk/PPT
+	02
+	SR2, W1
+	25/10/2026
+	63
+	Revision
+	Chalk and Talk/PPT
+	02
+	1
+	26/10/2026
+	64
+	Doubts and Answers Discussion
+	Chalk and Talk/PPT
+	02
+	1
+	27/10/2026
+	Surprise Test-3 
+(After Completion of 5 Units)
+	CIE-2 (9 - 16 Weeks)
+(XX-XX-2026 to XX-XX-2026)
+	Note: At least one topic in every unit to be delivered using innovative teaching methodology.
+Suggested Readings (SR):
+SR
+	Book Title/Author/Publication
+	SR1
+	Computer Systems Architecture – M.Moris Mano, IIIrd Edition, Pearson 
+
+
+	SR2
+	Computer Organization – Carl Hamacher, Zvonko Vranesic, Safwat Zaky, fifth 
+edition, McGraw Hill. 
+
+
+	SR3
+	Switching Theory and Logic Design – A Anand Kumar PHI 
+
+
+	SR4
+	Computer Architecture and Organization- An Integrated Approach, Miles 
+Murdocca, Vincent Heuring, Second Edition, Wiley India. 
+
+
+	SR5
+	 Computer Architecture and Organization- An Integrated Approach, Miles 
+Murdocca, Vincent Heuring, Second Edition, Wiley India. 
+
+
+	Web References (W):
+W
+	Web References
+	W1
+	Computer Organization and Architecture – William Stallings Sixth Edition, 
+Pearson 
+
+
+	W2
+	Digital Logic Design & Computer Organization with Computer Architecture for 
+Security-Nikrouz Faroughi, McGrawHill Education. 
+
+
+	W3
+	E - Resources: 
+1. www.wjec.co.uk/uploads/publications/4891.doc?language_id 
+
+
+	W4
+	2. http://www.ece.rutgers.edu/~marsic/Teaching/DLD/slides/lec-12.pdfW3 
+
+
+	W5
+	3. http://web2.uwindsor.ca/courses/cs/aggarwal/cs60265/Multiplexer.ppt 
+4. http://nptel.ac.in/pdf/nptel/NPTEL%20Local%20Chapter%20PPT%20
+	Mandatory tool for TM: 
+NPTEL/Swayam/e-PG Pathashala/UGC CEC/Institutional LMS/Any ICT Web link (https://www.education.gov.in/ict-initiatives)/
+Teaching Aids/Teaching Methodology:
+1. Mandatory tool: Real-time case studies (RTCS)
+2. Zoom meeting (ZM)/ Google Classroom (GC)/ Chalk & Talk (CT)/ Power Point Presentation (PPT)/ Demonstration (Demo.)/ Animated Lectures (AL)/ Guest lecture (GL) /Workshops (WS)/ Seminars (S)/ Pictorial sessions (PS)/ Quiz (Q)/NPTEL Videos (NV)/ Open book test (OBT)/ Review web literature (RWL)/ Flipped Classroom (FC)/ Project- based learning (PBL)/ Journal Review (JR)/ Research projects (RP)
+
+
+
+
+
+
+
+
+
+
+
+
+   
+        Prepared by                                 
+      Dr. Abdul Mateen Ahmed
+________________
+
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Department of CSM  
+Course Outcomes: C31 –DECO
+Student will be able to
+CO. No.
+	Description
+	Bloom’s Taxonomy Level
+	Competency
+	C31.1
+	Illustrate the functional organization and operational concepts of a digital computer, and perform number system conversions and binary arithmetic operations.
+	BTL 3 (Apply) 
+	10.1
+Comprehension of computer functional units and execution of number base conversions and binary arithmetic. 
+	C31.2
+	Simplify Boolean expressions using algebraic techniques and Karnaugh maps, and design combinational and sequential logic circuits.
+	BTL 6 (Create) 
+	11.1
+Minimization of switching functions and design of combinational and sequential logic circuits. 
+	C31.3
+	Apply binary arithmetic algorithms for multiplication and division, and analyze instruction sets, instruction formats, and addressing modes.
+	BTL 4 (Analyze) 
+	4.2
+Execution of multiplication/division algorithms and analysis of instruction formats and addressing modes. 
+	C31.4
+	Formulate register transfer and micro-operations, and analyze the design and address sequencing of a microprogrammed control unit. 
+	BTL 4 (Analyze) 
+	4.2
+Formulation of register transfer micro-operations and analysis of microprogrammed control and address sequencing. 
+	C31.5
+	Analyze input-output data transfer mechanisms and evaluate memory hierarchy, cache mapping techniques, and storage systems 
+	BTL 5 (Evaluate) 
+	7.1
+Analysis of I/O data transfer modes and evaluation of memory hierarchy, cache mapping, and storage organization. 
+	C31.6
+	Differentiate between RISC and CISC architectures and analyze pipelining concepts, pipeline hazards, and superscalar execution. 
+	BTL 4 (Analyze) 
+	7.1
+Architectural comparison of RISC/CISC processors and analysis of pipelining, pipeline hazards, and superscalar execution. 
+	Note: Bloom's Taxonomy Levels
+BTL1-Remember        
+	BTL2-Understand
+	BTL3-Apply
+	BTL4-Analyze
+	BTL5-Evaluate
+	BTL6-Create
+	
+
+
+
+
+
+Signature of the Faculty
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Department of CSM  
+Course Articulation Matrix: 
+Mapping of Course Outcomes (CO) with Program Outcomes (PO) and Program Specific Outcomes (PSO’s):
+Course Title: DECO
+	Course code: U24EC304
+	Sem: III
+	Academic Year: 2026-2027
+	Name of the Faculty: Dr. Abdul Mateen Ahmed
+	
+
+Course Outcomes (CO)
+	
+
+Program Outcomes (PO)
+	Program Specific Outcomes (PSO’s)
+	
+
+	PO1
+	PO2
+	PO3
+	PO4
+	PO5
+	PO6
+	PO7
+	PO8
+	PO9
+	PO10
+	PO11
+	PSO1
+	PSO2
+	C31.1
+	3
+	3
+	2
+	2
+	
+
+	
+
+	
+
+	
+
+	
+
+	2
+	3
+	
+
+	2
+	C31.2
+	3
+	3
+	2
+	2
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	3
+	
+
+	2
+	C31.3
+	3
+	3
+	2
+	3
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	3
+	
+
+	2
+	C31.4
+	3
+	
+
+	1
+	2
+	
+
+	
+
+	
+
+	
+
+	
+
+	2
+	3
+	1
+	2
+	C31.5
+	3
+	
+
+	1
+	2
+	
+
+	
+
+	
+
+	
+
+	
+
+	2
+	3
+	2
+	2
+	Avg. C31
+	3
+	1.8
+	1.6
+	2.2
+	
+
+	
+
+	
+
+	
+
+	
+
+	1.2
+	3
+	0.8
+	2
+	
+
+Level: 1- Low correlation (Low), 2- Medium correlation (Medium), 3-High correlation (High)
+PO1: Engineering knowledge (WK1 to WK4), PO2: Problem analysis (WK1 to WK4), PO3: Design/Development of solutions (WK5), PO4: Conduct investigations of complex problems (WK8), PO5: Engineering tool usage (WK2 and WK6), PO6: The Engineer and The World (WK1, WK5 and WK7), PO7: Ethics (WK9), PO8: Individual and Collaborative Team work, PO9: Communication, PO10: Project Management and Finance, PO11: Life-long learning (WK8) 
+PSO1: Professional Skills, PSO2: Problem-Solving Skills
+
+
+
+
+
+
+Signature of the Faculty
+________________
+
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Department of CSM-AIML  
+Justification for CO-PO and CO-PSO Mapping:
+Justification for CO-PO Mapping:
+Mapping
+	Level
+	WK
+	Competency
+	SDGs
+	Justification
+	C31.1. Mapping with POs
+	C31.1-PO1
+	3
+	WK1, WK2
+	1.1
+
+
+	4,9
+	Number system & Boolean function are core knowledge for digital circuit design
+	C31.1-PO2
+	3
+	WK2
+	2.1
+	4, 9
+	Boolean simplification requires analytical skills to minimize complexity.
+	C31.1-PO3
+	3
+	WK5
+	3.4
+	4, 12
+	Supports sustainable design by reducing hardware components.
+	C31.1-PO5
+	2
+	WK2
+	5.1
+	4
+	Application of simulation/software tools in conversions & simplification.
+	C31.1-PO10
+	2
+	WK7
+	10.1
+	4
+	Students present conversion & simplification methods effectively.
+	C31.2. Mapping with POs
+	C31.2 – PO1
+	3
+	WK2
+	1.1
+	 4, 9
+	Circuit optimization requires strong fundamentals.
+	C31.2 – PO2
+	3
+	WK4
+	2.1
+	4, 12
+	Problem-solving ensures efficient hardware use.
+	C31.2 – PO3
+	2
+	WK5
+	3.1
+	4, 12
+	Enables low-cost, sustainable designs.
+	C31.2 – PO5
+	2
+	WK6
+	5.2.2
+	4, 9
+	Simulation validates minimized circuits.
+	C31.2 – PO11
+	1
+	WK8
+	11.1
+	4
+	Students explain design steps clearly.
+	C31.3. Mapping with POs
+	C31.3 – PO1
+	3
+	WK2, WK3
+	1.4
+	 4, 9
+	Knowledge needed for system-level design.
+	C31.3 – PO2
+	3
+	WK4
+	2.1
+	4, 9
+	Required in clock-based system analysis.
+	C31.3 – PO3
+	2
+	WK5
+	3.1.5
+	4, 8, 9
+	Supports ICT & automation industry.
+	C31.3 – PO4
+	3
+	WK8
+	4.2.1
+	4
+	Students test & verify sequential designs.
+	C31.4. Mapping with POs
+	C31.4 – PO1
+	3
+	WK1
+	1.2
+	4, 9
+	Explains core architecture principles.
+	C31.4 – PO3
+	1
+	WK5
+	3.1.5
+	 4
+	Students map organization to real-world systems.
+	C31.4 – PO5
+	2
+	WK6
+	5.1.1
+	4, 9
+	Helps understand hardware-software interface.
+	C31.4 – PO6
+	2
+	WK7
+	6.1
+	 9
+	Computers are essential societal tools.
+	C31.4 – PO7
+	2
+	WK9
+	7.1
+	4
+	Students document architecture clearly.
+	C31.5. Mapping with POs
+	C31.5 – PO1
+	3
+	WK1, WK2
+	2.1.3
+	 4, 9
+	Understanding memory hierarchy is core.
+	C31.5 – PO3
+	1
+	WK5
+	4.2
+	SDG 4, 7
+	Supports efficient energy-aware computing.
+	C31.5 – PO5
+	2
+	WK6
+	5.2.2
+	SDG 4, 9
+	EDA tools used in studying memory systems.
+	C31.5 – PO7
+	2
+	WK9
+	7.1.1
+	SDG 7, 9
+	Memory efficiency → energy conservation.
+	Justification for CO-PSO Mapping:
+
+
+Mapping
+	Level
+	WK
+	Competency
+	SDGs
+	Justification
+	C31.1. Mapping with PSOs
+	C31.1-PSO1
+	3
+	WK1
+	-
+	4, 9
+	Strong professional skills in digital fundamentals
+	C31.1-PSO2
+	3
+	WK2
+	-
+	4, 9
+	Analytical skills in Boolean simplification & conversions
+	C31.2. Mapping with PSOs
+	C31.2-PSO1
+	3
+	WK4
+	-
+	4, 12
+	Skills in combinational logic design
+	C31.2-PSO2
+	3
+	WK6
+	-
+	4, 12
+	Problem-solving in circuit minimization
+	C31.3. Mapping with PSOs
+	C31.3-PSO1
+	3
+	WK4
+	-
+	4, 9
+	Professional competence in sequential design
+	C31.3-PSO2
+	3
+	WK6
+	-
+	4, 9
+	Problem-solving in sequential logic
+	C31.4. Mapping with PSOs
+	C31.4-PSO1
+	3
+	WK8
+	-
+	4, 9
+	System-level integration skills
+	C31.4-PSO2
+	3
+	WK6
+	-
+	4, 9
+	Problem-solving in architecture
+	C31.5. Mapping with PSOs
+	C31.5-PSO1
+	3
+	WK7
+	-
+	4, 7, 9
+	Professional insights in memory design
+	C31.5-PSO2
+	3
+	WK8
+	-
+	 4, 7
+	Analytical ability in memory systems
+	
+
+
+
+________________
+
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Department of CSE-Artificial Intelligence and Machine Learning  
+Topics beyond the syllabus and Corrective action taken by Faculty:
+Topics Identified by Faculty:
+Gaps
+	Description
+	CO
+	Mapping with POs/PSOs
+	Proposed Actions
+	Gap.1
+	Subtractor
+	CO2
+	PO11
+	Integrate missing topics in revision sessions/ Provide supplementary handouts/materials
+	Gap.2
+	Comparator
+	CO2
+	PO11
+	Gap.3
+	Encoder
+	CO2
+	PO11
+	Gap.4
+	Multiplexer
+	CO2
+	PO11
+	Gap.5
+	Demultiplexer 
+	CO2
+	PO11
+	Corrective Action (CA):
+CA No.
+	Description
+	1
+	Computer system architecture by Morris Mano
+	CO-PO/PSO Mapping with Corrective Action:
+CO/PO
+	PO1
+	PO2
+	PO3
+	PO4
+	PO5
+	PO6
+	PO7
+	PO8
+	PO9
+	PO10
+	PO11
+	PSO1
+	PSO2
+	C31.2.
+	3
+	2
+	2
+	1
+	2
+	
+
+	
+
+	
+
+	
+
+	2
+	3
+	3
+	3
+	C31 
+	3
+	2
+	2
+	1
+	2
+	
+
+	
+
+	
+
+	
+
+	2
+	3
+	3
+	3
+	
+
+
+
+
+
+Signature of the Faculty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Corrective Action Report (Beyond the Syllabus Topics)
+1. Subtractor
+* Gap: Students were unfamiliar with concepts as it is beyond prescribed syllabus.
+* Corrective Action: Conducted an extension lecture with truth table derivation; shared solved examples through supplementary handouts.
+2. Comparator
+* Gap: Difficulty in visualizing comparison operations (A>B, A<B, A=B).
+* Corrective Action: Demonstrated using digital simulation software; arranged short lab exercise for practical exposure.
+3. Encoder
+* Gap: Limited understanding of real-life applications (e.g., keyboards).
+* Corrective Action: Explained priority encoder with case study; provided practice problems and application-oriented examples.
+4. Multiplexer (MUX)
+* Gap: Complexity in grasping the role of select lines and logic design.
+* Corrective Action: Conducted problem-solving session; demonstrated MUX implementation in lab using ICs.
+5. Demultiplexer (DEMUX)
+* Gap: Confusion between MUX and DEMUX usage.
+* Corrective Action: Used comparative analysis (MUX vs DEMUX); conducted short quiz and design exercise.
+Brief notes on the importance of the course
+
+
+Digital Electronics is a branch of electronics that focuses on systems operating with digital signals—data represented as binary numbers (0s and 1s), utilizing components such as logic gates, transistors, and microcontrollers. Computer Organization is a discipline within computer engineering that studies the structure, behavior, and interconnection of computer hardware components, as well as how they cooperate to process data and execute instructions efficiently.
+
+
+Digital circuits manipulate binary signals and rely on numerous logic gates, including AND, OR, and NOT, to process data and perform logical operations. 
+1. Foundation for Computer Science and Engineering: DECO introduces the basic building blocks of digital systems and the structure of computers, which are essential for understanding advanced subjects like microprocessors, computer architecture, and embedded systems.
+2. Understanding Hardware and Logic Design: The course covers Boolean algebra, logic gates, combinational and sequential circuits, enabling students to analyze, simplify, and design digital systems that form the basis of modern hardware.
+
+
+
+
+
+
+
+
+
+
+
+
+3. Bridging Software and Hardware: By learning instruction sets, addressing modes, and register transfer language, students understand how high-level programs are executed at the hardware level, linking programming concepts with machine operations.
+4. Efficient Problem Solving: Knowledge of arithmetic operations, pipelining, and memory organization helps in designing systems with better performance, efficiency, and scalability.
+5. Industry Relevance: Concepts like I/O organization, cache memory, RISC/CISC architectures, and superscalar operations are directly applied in modern processors, making this course vital for careers in computer hardware design, system architecture, and VLSI design.
+6. Foundation for Advanced Learning: Provides a strong base for advanced courses such as Computer Architecture, Operating Systems, Microcontrollers, and Artificial Intelligence, ensuring students can grasp complex system-level designs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ C:\Users\Administrator\Desktop\Logo.png 
+
+
+
+
+
+Course Title: Digital Electronics and Computer
+Organization
+	Course code: U24EC304
+	Sem: III
+	Academic Year: 2026-2026
+	
+
+
+
+
+
+
+
+Bloom's Taxonomy Levels (BTL)
+	BTL1 - Remember
+	BTL2 - Understand
+	BTL3 - Apply
+	BTL4-Analyze
+	BTL5 - Evaluate
+	BTL6 - Create
+	
+
+
+
+S.no
+	SHORT ANSWERS
+	CO
+	M
+	BTL
+	UNIT-1
+	1
+	Give the basic operational concepts of a computer.
+	CO1
+	[2]
+	BTL2
+	2
+	Write about Multiprocessor
+	CO1
+	[2]
+	BTL2
+	3
+	Write a short note on performance.
+	CO1
+	[2]
+	BTL2
+	4
+	State the difference between multiprocessors and microcomputer.
+	CO1
+	[2]
+	BTL2
+	5
+	What is a Digital Computer? list out various types of computers
+	CO1
+	[2]
+	BTL1
+	6
+	Write a short note on the system bus.
+	CO1
+	[2]
+	BTL1
+	7
+	Give the 2’s complement of the following numbers.
+1. 1010111       (b)11001101
+	CO1
+	[2]
+	BTL2
+	8
+	Convert (i) (520)10 to ( )16 (i) (480)10 to ( )8
+	CO1
+	[2]
+	BTL2
+	9
+	Convert the following numbers from Gray code to binary (i)0011        (ii)1011
+	CO1
+	[2]
+	BTL3
+	10
+	Convert following decimal numbers to BCD.
+1. 12     (b) 345     © 2019
+	CO1
+	[2]
+	BTL2
+	11
+	Subtract the following numbers.
+1. +19-43  (b) 57-33
+	CO1
+	[2]
+	BTL2
+	UNIT -2
+	12
+	What is a multiplexer? Give the applications.
+	CO2
+	[2]
+	BTL2
+	13
+	Design a half adder with truth table and logical diagram.
+	CO2
+	[2]
+	BTL1
+	14
+	What are universal gates? Why they are called so?
+	CO2
+	[2]
+	BTL1
+	15
+	State the difference between combinational circuit and sequential circuit.
+	CO2
+	[2]
+	BTL2
+	16
+	Draw the basic 4- variable K-maps and represent the minterms.
+	CO2
+	[2]
+	BTL2
+	    17
+	Draw the logical diagram for the following Boolean expression (i)A+AB (ii)A(A’+B)
+	CO2
+	[2]
+	BTL3
+	18
+	State and prove De Morgan’s Theorem
+	CO2
+	[2]
+	 BTL2
+	19
+	Differentiate between latch and flip flop.
+	CO2
+	[2]
+	  BTL2
+	20
+	What is a Flipflop? List various types of Flipflops
+	CO2
+	[2]
+	  BTL1
+	
+
+
+
+UNIT-3
+	21
+	Define addressing mode. Why is it important?
+	CO3
+	[2]
+	BTL2
+	22
+	Compare direct and register addressing modes
+	CO3
+	[2]
+	BTL3
+	23
+	What is an instruction set in a computer architecture
+	CO3
+	[2]
+	BTL1
+	24
+	Explain the role of opcode in an instruction
+	CO3
+	[2]
+	BTL2
+	25
+	Give two examples of arithmetic machine instructions.
+	CO3
+	[2]
+	BTL3
+	26
+	What is the function of the LOAD and STORE instructions?
+	  CO3
+	[2]
+	  BTL1
+	27
+	What is Register Transfer Language (RTL)?
+	CO3
+	 [2]
+	  BTL1
+	28
+	What is control memory? What does it store?
+	CO3
+	 [2]
+	  BTL1
+	
+
+UNIT-4
+	29
+	What are peripheral devices? Give two examples.
+	CO4
+	[2]
+	BTL2
+	     30
+	Define an input-output interface. Why is it needed?
+	  CO4
+	[2]
+	BTL1
+	31
+	What is Direct Memory Access (DMA)? Explain its significance.
+	  CO4
+	[2]
+	BTL1
+	32
+	Define RAM and ROM. Mention one difference.
+	CO4
+	[2]
+	BTL1
+	33
+	What is cache memory? Why is it important?
+	CO4
+	[2]
+	BTL1
+	34
+	Differentiate between primary memory and secondary storage
+	CO4
+	[2]
+	 BTL  4     
+	35
+	List the different modes of data transfer in a computer system.
+	CO4
+	[2]
+	BTL1
+	36
+	What is a priority interrupt? How does it differ from a non-priority interrupt?
+	CO4
+	[2]
+	BTL1
+	UNIT-5
+	
+
+37
+	What is a Reduced Instruction Set Computer (RISC)?
+	CO5
+	[2]
+	BTL1
+	  38
+	Mention any two differences between RISC and CISC.
+	CO5
+	[2]
+	BTL1
+	   39
+	Define pipelining in computer architecture.
+	CO5
+	[2]
+	BTL1
+	 40
+	What is a data hazard in pipelining? Provide an example.
+	CO5
+	[2]
+	BTL1
+	 41
+	What is an instruction hazard? How can it affect performance?
+	CO5
+	[2]
+	BTL1
+	 42
+	What are the considerations for datapath and control in a pipelined processor?
+	CO5
+	[2]
+	BTL1
+	
+
+  
+ C:\Users\Administrator\Desktop\Logo.png 
+
+
+
+LONG ANSWERS
+	UNIT-1
+	1.
+	(a)Explain the basic structure of a computer with a neat block diagram. Describe the function of each unit.
+(b) Write a detailed note on computer software. How is system software different from application software? Provide examples.
+	CO1
+
+
+CO1
+	[6]
+[6]
+	BTL 2 BTL
+2
+	2.
+	1. What is a bus in computer architecture? Explain different types of bus structures and their roles in data transfer.
+	CO1
+	[6]
+	BTL 2
+	
+
+	2. What factors affect the performance of a computer system? How can performance be measured and improved?
+	CO1
+	[6]
+	BTL 2
+	3.
+	(a )What are binary codes? Explain any three common binary codes used in digital systems.
+(b)Discuss how arithmetic operations are performed using signed binary numbers. Provide examples of both addition and subtraction.
+	CO1
+	[6]
+[6]
+	BTL 3 BTL 3
+	4
+	1. What are complements? Differentiate between 1’s complement and 2’s complement with examples. Why are they important?
+
+
+2. Explain various logic gates with truth table and logic diagram
+	CO1
+	[12]
+	BTL4
+	5
+	(a)State and prove (i)Associative law (ii) Distributive law (iii)Redundant literal rule with truth table and logic gates.
+	CO1
+	[6]
+[6]
+	BTL 3
+	
+
+	
+
+	
+
+	
+
+	BTL
+	
+
+	
+
+	
+
+	
+
+	4
+	7
+	Convert the following decimal numbers to the indicated bases.
+i) (7562.45)10 to Octal        ii) (1938.257)10 to hexadecimal        iii) (175.175)8 to binary (iv)(163.789)16 to Octal number        (v)(11001101.0101)2 to hexadecimal
+(vi) (245.125)8 to binary.
+	CO1
+	[12]
+	BTL3
+	
+
+UNIT-2
+	8
+	Explain the basic logic gates (AND, OR, NOT) with symbols, truth tables, and Boolean expressions. Also, define universal gates and show how NAND and NOR can implement other gates.
+	CO2
+	[12]
+
+
+	BTL 3
+	9
+	1. Describe the process of simplifying Boolean expressions using Karnaugh Maps (K-Map). Provide examples for 2-variable, 3-variable, and 4-variable functions.
+	CO2
+	[8]
+
+
+
+
+	BTL 4 
+	
+
+	2. Compare SOP and POS forms in terms of structure, simplification, and implementation in logic circuits.
+	
+
+	   [4]
+	BTL3
+	
+
+  
+ C:\Users\Administrator\Desktop\Logo.png 
+
+     
+
+
+10
+	Design and explain a Half Adder and a Full Adder circuit. Use truth tables and logic diagrams. Also, write their Boolean expressions.
+	CO2
+	[12]
+
+
+	BTL 4 
+	11
+	1. Explain the concept of combinational logic circuits. Design a 4-bit binary adder using full adders.
+	CO2
+	[12]
+
+
+	BTL 3 
+	12
+	What is a flip-flop? Explain the working of SR, D, and JK flip-flops with truth tables and logic diagrams.
+	CO2
+	[12]
+	BTL5
+	     13
+	What is a binary counter? Design a 3-bit asynchronous counter using flip-flops. Explain its working with timing diagrams.
+Differentiate between combinational and sequential circuits with suitable examples.
+	  CO2
+	[8]
+
+
+
+
+[4]
+	BTL1
+
+
+
+
+BTL4
+	UNIT-3
+	14
+	Write and explain the algorithm for binary multiplication and division. Provide an example for each.
+Explain Booth’s multiplication algorithm with a step-by-step example.
+	CO3
+	[5]
+
+
+
+
+[7]
+	BTL 3 BTL 3
+	15
+	Define instruction set architecture. Explain various instruction formats with diagrams and examples.
+What are addressing modes? Explain different types of addressing modes with examples.
+	CO3
+	[8]
+
+
+
+
+  [4]
+	BTL1
+
+
+
+
+   BTL1                                   
+	16
+	What is Register Transfer Language (RTL)? Explain various types of microoperations (Arithmetic, Logic, and Shift) with examples.
+Discuss the implementation of arithmetic microoperations using registers. Illustrate with necessary block diagrams and RTL notations.
+	CO3
+	[5]
+
+
+
+
+[8]
+	BTL1
+
+
+
+
+BTL2
+	17
+
+
+	What is microprogrammed control? Explain its structure and working with the help of control memory and address sequencing.
+	CO3
+	[12]
+	BTL2
+	18
+	Describe the difference between hardwired control and microprogrammed control. List advantages and disadvantages of both.
+	CO3
+	[12]
+	BTL2
+	19
+	Explain the design of a microprogram control unit. Illustrate with a microprogram example.
+	CO3
+	[12]
+	BTL2
+	
+
+  
+ C:\Users\Administrator\Desktop\Logo.png 
+
+
+
+
+
+UNIT-4
+	20
+	1. Explain the organization and functioning of Input/Output systems in a computer.
+2. Describe the concept of memory in computer systems.
+	CO4
+	[8]
+
+
+[4]
+	BTL3 
+	21
+	1. What is memory hierarchy? Why is it important in computer system design?
+2. Define cache memory and explain its role in improving system performance.
+	CO4
+	[6]
+
+
+
+
+[6]
+	BTL 3
+	22
+	1. Discuss the concept of Direct Memory Access (DMA).
+2. Describe the various modes of data transfer used in computer systems
+	CO4
+	[6]
+[6]
+
+
+	BTL 3
+	23
+	1. Explain different types of ROM and RAM used in memory systems.
+2. What is an I/O interface? Describe its function and components.
+	CO4
+	[4]
+[8]
+	BTL 3 
+BTL 1
+	24
+	1. Describe asynchronous data transfer. How is it different from synchronous data transfer?
+2. Explain the organization and importance of secondary storage devices.
+	CO4
+	[8]
+
+
+[4]
+	BTL 3
+
+
+BTL 5
+	25
+	1. Classify ROM and Explain each of them in detail with neat diagram.
+2. Demonstrate SRAM cell and its read/write operation
+	CO5
+	[7]
+[5]
+	BTL 2
+	UNIT-5
+	26
+	Explain instruction hazards in a pipelined processor. What are the causes, and how can they be handled in hardware and software?
+	CO5
+	[12]
+
+
+	BTL2
+	27
+	Explain the basic concept of pipelining in computer architecture. How does pipelining improve the performance of a processor? Illustrate with a simple example.
+	CO5
+	[12]
+
+
+	BTL3
+	28
+	Define RISC (Reduced Instruction Set Computer) architecture. What are the key characteristics of RISC? Compare RISC with CISC architecture in detail.
+	CO5
+	[12]
+
+
+	BTL3
+	29
+	1. Explain instruction hazards in a pipelined processor. What are the causes, and how can they be handled in hardware and software?
+(b) How does the instruction set architecture influence the design and performance of a pipelined processor? Discuss with examples.
+
+
+	CO5
+
+
+
+
+CO5
+	[8]
+
+
+
+
+[5]
+	BTL3
+
+
+
+
+BTL3
+	30
+	Explain the concept of pipelining in computer architecture. Discuss how pipelining is implemented in Reduced Instruction Set Computers (RISC) and how it differs from Complex Instruction Set Computers (CISC)
+	CO5
+	[12]
+	BTL3
+	
+
+
+
+
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Department of CSE-Artificial Intelligence and Machine Learning)  
+A.Y: 2026
+UNIT WISE QUIZ QUESTIONS:
+UNIT–I: Basic Structure of Computers & Data Representation
+1. Q: What are the five functional units of a computer?
+A: Input, Output, Memory, Control Unit, ALU.
+2. Q: Define bus structure.
+A: A system of communication pathways that connect components (data bus, address bus, control bus).
+3. Q: What is the main difference between multiprocessors and multicomputers?
+A: Multiprocessors share memory; multicomputers have distributed memory.
+4. Q: Convert (45)₁₀ into binary.
+A: 101101₂.
+5. Q: Convert (110101)₂ to decimal.
+A: 53.
+6. Q: Represent –15 in 8-bit signed 2’s complement.
+A: 11110001.
+7. Q: What is the 1’s complement of 1001101₂?
+A: 0110010₂.
+8. Q: Add 1011₂ + 1110₂ in binary.
+A: 11001₂.
+9. Q: What is the hexadecimal equivalent of (11011010)₂?
+A: DA₁₆.
+10. Q: Write IEEE 754 single-precision representation for +12.5.
+A: Sign=0, Exponent=10000010, Mantissa=10010000000000000000000.
+UNIT–II: Switching Theory & Digital Logic Circuits
+   11. Q: State De Morgan’s First Law.
+A: (A·B)’ = A’ + B’.
+   12. Q: Which gates are universal gates?
+A: NAND and NOR.
+   13. Q: Simplify: A + A’B.
+A: A + B.
+   14. Q: Minimize F(A,B,C) = Σ(1,3,5,7).
+A: F = B + C.
+   15. Q: How many cells are there in a 4-variable K-map?
+A: 16.
+   16. Q: Expression for Half Adder sum output.
+A: S = A ⊕ B.
+   17. Q: Expression for Full Adder carry output.
+A: C = AB + BC + AC.
+   18. Q: Define Flip-Flop.
+A: A bistable element that stores 1 bit of data.
+   19. Q: Name two types of shift registers.
+A: SISO, PISO, SIPO, PIPO (any two).
+   20. Q: Function of a decoder.
+A: Converts binary inputs into one active output line.
+UNIT–III: Computer Arithmetic & Basic Processing Unit
+      21. Q: Which algorithm is used for multiplication?
+A: Booth’s Algorithm.
+      22. Q: What is the difference between restoring and non-restoring division?
+A: Restoring reverts remainder after unsuccessful subtraction; non-restoring avoids restoration.
+      23. Q: Define instruction set.
+A: The complete set of instructions a CPU can execute.
+      24. Q: Name any two addressing modes.
+A: Immediate, Direct, Indirect, Register, Indexed.
+      25. Q: What is an opcode?
+A: Part of instruction specifying the operation.
+      26. Q: Write RTL for: R1 ← R1 + R2.
+A: R1 ← R1 + R2.
+      27. Q: What are micro-operations?
+A: Basic operations on the data stored in registers.
+      28. Q: List four types of micro-operations.
+A: Arithmetic, Logic, Shift, Control.
+      29. Q: What is control memory in microprogrammed control?
+A: Memory that stores microinstructions.
+      30. Q: What is the purpose of address sequencing in microprogramming?
+A: Determines the order in which microinstructions are executed.
+UNIT–IV: Input/Output & Memory Organization
+         31. Q: Give an example of a peripheral device.
+A: Printer, Keyboard, Mouse, Monitor.
+         32. Q: What is DMA?
+A: Direct Memory Access – allows devices to transfer data directly to memory without CPU.
+         33. Q: Define interrupt.
+A: A signal that temporarily halts CPU to handle an event.
+         34. Q: What is synchronous vs. asynchronous data transfer?
+A: Synchronous uses clock signal; asynchronous uses control signals (ready/acknowledge).
+         35. Q: What is the hierarchy of memory?
+A: Registers → Cache → Main Memory → Secondary Storage.
+         36. Q: Difference between RAM and ROM.
+A: RAM is volatile and read-write; ROM is non-volatile and read-only.
+         37. Q: Define cache memory.
+A: Small, high-speed memory between CPU and main memory.
+         38. Q: Write any two cache mapping techniques.
+A: Direct, Associative, Set-associative.
+         39. Q: What is secondary storage?
+A: Non-volatile storage like hard disks, SSDs.
+         40. Q: Give one example of memory-mapped I/O.
+A: Treating device registers as memory locations.
+UNIT–V: Pipelining & RISC/CISC
+            41. Q: Define pipelining.
+A: Overlapping execution of instructions by dividing them into stages.
+            42. Q: What is instruction hazard?
+A: Hazard caused by dependency between instructions.
+            43. Q: Define data hazard.
+A: Occurs when instructions depend on results of previous instructions.
+            44. Q: What is structural hazard?
+A: Conflict over shared resources in pipeline.
+            45. Q: Define RISC.
+A: Reduced Instruction Set Computer – uses simple, fixed-length instructions.
+            46. Q: Define CISC.
+A: Complex Instruction Set Computer – supports complex instructions with variable length.
+            47. Q: State one characteristic of RISC.
+A: Large number of registers, load/store architecture.
+            48. Q: State one characteristic of CISC.
+A: Microprogrammed control, fewer registers.
+            49. Q: What is superscalar operation?
+A: Multiple instructions issued per clock cycle.
+            50. Q: What is pipeline speedup ideally equal to?
+A: Number of pipeline stages.
+            51. Q: What is instruction-level parallelism (ILP)?
+A: Ability to execute multiple instructions simultaneously.
+            52. Q: Name two pipeline hazards.
+A: Data hazard, Control hazard, Structural hazard (any two).
+            53. Q: What is branch prediction?
+A: Technique to guess the outcome of a branch to reduce stalls.
+            54. Q: Which architecture uses fewer transistors in control unit – RISC or CISC?
+A: RISC.
+            55. Q: Give an example of a CISC processor.
+A: Intel x86.
+            56. Q: Give an example of a RISC processor.
+A: ARM, MIPS.
+            57. Q: What is instruction pipelining efficiency reduced by?
+A: Pipeline hazards (data, control, structural).
+            58. Q: Define superscalar pipeline.
+A: CPU design that issues multiple instructions per cycle with parallel pipelines.
+            59. Q: Why is pipeline not always linear in speedup?
+A: Due to stalls, hazards, and unequal stage delays.
+            60. Q: What is the main difference between RISC and CISC execution speed?
+A: RISC executes instructions faster due to simplicity; CISC takes more cycles.
+
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Department of CSE-Artificial Intelligence and Machine Learning)  
+A.Y: 2026-2027
+B.E. III SEMESTER 
+Name of the Subject: Digital Electronics & Computer organization (U24EC304)
+Surprise Test – 1 
+Surprise Test Questions:                                  Date:                                     Max.Marks:10
+Q. No.
+	Question
+	Marks
+	Course Outcome
+	Bloom’s Taxonomy Level
+	1.
+	i. Explain in detail about functional units of computer.
+ii. Write the binary number system of octal and hexadecimal number.
+	5
+	CO1
+	BTL 2
+	2.
+	Explain basic, universal and logic gates with truth table and logic diagram.
+	5
+	CO2
+	BTL2
+	3.
+	Subtract the following using 1’s and 2’s complement method.
+               1. 35-24
+               2. 100110-011010
+	5
+	CO2
+	BTL3
+	
+
+Bloom's Taxonomy Levels (BTL)
+	BTL1-Remember        
+	BTL2-Understand
+	BTL3-Apply
+	BTL4-Analyze
+	BTL5-Evaluate
+	BTL6-Create
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Department of CSE-Artificial Intelligence and Machine Learning)  
+A.Y: 2026-2027
+B.E. III SEMESTER 
+Name of the Subject: Digital Electronics & Computer organization (U24EC304)
+Surprise Test – 2 
+Surprise Test Questions:                                  Date:                                     Max.Marks:10
+Q. No.
+	Question
+	Marks
+	Course Outcome
+	Bloom’s Taxonomy Level
+	1.
+	
+
+	
+
+	
+
+	
+
+	2.
+	
+
+	
+
+	
+
+	
+
+	3.
+	
+
+	
+
+	
+
+	
+
+	4.
+	
+
+	
+
+	
+
+	
+
+	5.
+	
+
+	
+
+	
+
+	
+
+	
+
+Bloom's Taxonomy Levels (BTL)
+	BTL1-Remember        
+	BTL2-Understand
+	BTL3-Apply
+	BTL4-Analyze
+	BTL5-Evaluate
+	BTL6-Create
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Department of CSE-Artificial Intelligence and Machine Learning)  
+A.Y: 2026-2027
+B.E. III SEMESTER 
+Name of the Subject: Digital Electronics & Computer organization (U24EC304)
+Surprise Test – 3
+Surprise Test Questions:                                  Date:                                     Max.Marks:10
+Q. No.
+	Question
+	Marks
+	Course Outcome
+	Bloom’s Taxonomy Level
+	1.
+	
+
+	
+
+	
+
+	
+
+	2.
+	
+
+	
+
+	
+
+	
+
+	3.
+	
+
+	
+
+	
+
+	
+
+	4.
+	
+
+	
+
+	
+
+	
+
+	5.
+	
+
+	
+
+	
+
+	
+
+	
+
+Bloom's Taxonomy Levels (BTL)
+	BTL1-Remember        
+	BTL2-Understand
+	BTL3-Apply
+	BTL4-Analyze
+	BTL5-Evaluate
+	BTL6-Create
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Department of AIML  
+A.Y: 2026-2027
+B.E. III SEMESTER 
+Name of the Subject: DECO, U24EC304
+Marks List of Surprise Test:                                                         Max. Marks (10)
+S. No.
+	H.T. No. of the Student
+	Surprise Test-1
+	Surprise Test-2
+	Surprise Test-3
+	Best of any Two Average
+	1.
+	
+
+	
+
+	
+
+	
+
+	
+
+	2.
+	
+
+	
+
+	
+
+	
+
+	
+
+	3.
+	
+
+	
+
+	
+
+	
+
+	
+
+	4.
+	
+
+	
+
+	
+
+	
+
+	
+
+	5.
+	
+
+	
+
+	
+
+	
+
+	
+
+	6.
+	
+
+	
+
+	
+
+	
+
+	
+
+	7.
+	
+
+	
+
+	
+
+	
+
+	
+
+	8.
+	
+
+	
+
+	
+
+	
+
+	
+
+	9.
+	
+
+	
+
+	
+
+	
+
+	
+
+	10.
+	
+
+	
+
+	
+
+	
+
+	
+
+	11.
+	
+
+	
+
+	
+
+	
+
+	
+
+	12.
+	
+
+	
+
+	
+
+	
+
+	
+
+	13.
+	
+
+	
+
+	
+
+	
+
+	
+
+	14.
+	
+
+	
+
+	
+
+	
+
+	
+
+	15.
+	
+
+	
+
+	
+
+	
+
+	
+
+	16.
+	
+
+	
+
+	
+
+	
+
+	
+
+	17.
+	
+
+	
+
+	
+
+	
+
+	
+
+	18.
+	
+
+	
+
+	
+
+	
+
+	
+
+	19.
+	
+
+	
+
+	
+
+	
+
+	
+
+	20.
+	
+
+	
+
+	
+
+	
+
+	
+
+	21.
+	
+
+	
+
+	
+
+	
+
+	
+
+	22.
+	
+
+	
+
+	
+
+	
+
+	
+
+	23.
+	
+
+	
+
+	
+
+	
+
+	
+
+	24.
+	
+
+	
+
+	
+
+	
+
+	
+
+	25.
+	
+
+	
+
+	
+
+	
+
+	
+
+	26.
+	
+
+	
+
+	
+
+	
+
+	
+
+	27.
+	
+
+	
+
+	
+
+	
+
+	
+
+	28.
+	
+
+	
+
+	
+
+	
+
+	
+
+	29.
+	
+
+	
+
+	
+
+	
+
+	
+
+	30.
+	
+
+	
+
+	
+
+	
+
+	
+
+	45.
+	
+
+	
+
+	
+
+	
+
+	
+
+	32.
+	
+
+	
+
+	
+
+	
+
+	
+
+	33.
+	
+
+	
+
+	
+
+	
+
+	
+
+	34.
+	
+
+	
+
+	
+
+	
+
+	
+
+	45.
+	
+
+	
+
+	
+
+	
+
+	
+
+	36.
+	
+
+	
+
+	
+
+	
+
+	
+
+	37.
+	
+
+	
+
+	
+
+	
+
+	
+
+	45.
+	
+
+	
+
+	
+
+	
+
+	
+
+	39.
+	
+
+	
+
+	
+
+	
+
+	
+
+	40.
+	
+
+	
+
+	
+
+	
+
+	
+
+	41.
+	
+
+	
+
+	
+
+	
+
+	
+
+	42.
+	
+
+	
+
+	
+
+	
+
+	
+
+	43.
+	
+
+	
+
+	
+
+	
+
+	
+
+	44.
+	
+
+	
+
+	
+
+	
+
+	
+
+	45.
+	
+
+	
+
+	
+
+	
+
+	
+
+	46.
+	
+
+	
+
+	
+
+	
+
+	
+
+	47.
+	
+
+	
+
+	
+
+	
+
+	
+
+	48.
+	
+
+	
+
+	
+
+	
+
+	
+
+	49.
+	
+
+	
+
+	
+
+	
+
+	
+
+	50.
+	
+
+	
+
+	
+
+	
+
+	
+
+	31.
+	
+
+	
+
+	
+
+	
+
+	
+
+	52.
+	
+
+	
+
+	
+
+	
+
+	
+
+	53.
+	
+
+	
+
+	
+
+	
+
+	
+
+	54.
+	
+
+	
+
+	
+
+	
+
+	
+
+	55.
+	
+
+	
+
+	
+
+	
+
+	
+
+	56.
+	
+
+	
+
+	
+
+	
+
+	
+
+	57.
+	
+
+	
+
+	
+
+	
+
+	
+
+	58.
+	
+
+	
+
+	
+
+	
+
+	
+
+	59.
+	
+
+	
+
+	
+
+	
+
+	
+
+	60.
+	
+
+	
+
+	
+
+	
+
+	
+
+	61.
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Signature of the Faculty
+________________
+
+
+
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Department of AIML  
+A.Y: 2026-2027
+B.E. III SEMESTER 
+Name of the Subject: DECO, U24EC304
+Assignment – 1 
+Assignment Questions:                 Date:                                                Max. Marks:10
+Q. No.
+	Question
+	Marks
+	Course Outcome
+	Bloom’s Taxonomy Level
+	1.
+	Define functional units in a computer. Explain their roles with examples.  
+	2
+	CO1
+	BTL1
+	2.
+	
+
+Differentiate between multiprocessors and multicomputers with examples. 
+	2
+	CO1
+	BTL2 
+	3.
+	
+
+ What is a system bus? Describe its types and functions.
+	2
+	CO1 
+	BTL2
+	4.
+	Convert the binary number 11010111₂ into decimal, octal, and hexadecimal formats.
+	2
+	CO1
+	BTL3
+	5.
+	Convert the binary number 11010111₂ into decimal, octal, and hexadecimal formats.
+	2
+	CO1
+	BTL2
+	Note: Assignment Questions must be given at higher order BTL.
+Bloom's Taxonomy Levels (BTL)
+	BTL1-Remember        
+	BTL2-Understand
+	BTL3-Apply
+	BTL4-Analyze
+	BTL5-Evaluate
+	BTL6-Create
+	Note:
+               1. Answer all Questions.
+               2. Answer to the assignment questions are to be written on A4 size papers only.
+               3. Each page of the assignment paper should contain full roll number of the student.
+               4. The hard copy of the assignment is to be submitted on or before 18/09/2026.
+
+
+Signature of the Faculty
+________________
+
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Department of AIML  
+A.Y: 2026-2027
+B.E. III SEMESTER 
+Name of the Subject: DECO, U24EC304
+Assignment – 2 
+Assignment Questions:                 Date:                                                Max. Marks:10
+Q. No.
+	Question
+	Marks
+	Course Outcome
+	Bloom’s Taxonomy Level
+	1.
+	
+
+	
+
+	
+
+	
+
+	2.
+	
+
+	
+
+	
+
+	
+
+	3.
+	
+
+	
+
+	
+
+	
+
+	4.
+	
+
+	
+
+	
+
+	
+
+	5.
+	
+
+	
+
+	
+
+	
+
+	Note: Assignment Questions must be given at higher order BTL.
+Bloom's Taxonomy Levels (BTL)
+	BTL1-Remember        
+	BTL2-Understand
+	BTL3-Apply
+	BTL4-Analyze
+	BTL5-Evaluate
+	BTL6-Create
+	
+
+Note:
+               1. Answer all Questions.
+               2. Answer to the assignment questions are to be written on A4 size papers only.
+               3. Each page of the assignment paper should contain full roll number of the student.
+               4. The hard copy of the assignment is to be submitted on or before XXXXXXX.
+
+
+
+
+
+
+Signature of the Faculty
+
+
+
+
+
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Department of AIML  
+A.Y: 2026-2027
+B.E. III SEMESTER 
+Name of the Subject: DECO, U24EC304
+Assignment – 3 
+Assignment Questions:                 Date:                                                Max. Marks:10
+Q. No.
+	Question
+	Marks
+	Course Outcome
+	Bloom’s Taxonomy Level
+	1.
+	
+
+	
+
+	
+
+	
+
+	2.
+	
+
+	
+
+	
+
+	
+
+	3.
+	
+
+	
+
+	
+
+	
+
+	4.
+	
+
+	
+
+	
+
+	
+
+	5.
+	
+
+	
+
+	
+
+	
+
+	Note: Assignment Questions must be given at higher order BTL.
+Bloom's Taxonomy Levels (BTL)
+	BTL1-Remember        
+	BTL2-Understand
+	BTL3-Apply
+	BTL4-Analyze
+	BTL5-Evaluate
+	BTL6-Create
+	
+
+Note:
+               1. Answer all Questions.
+               2. Answer to the assignment questions are to be written on A4 size papers only.
+               3. Each page of the assignment paper should contain full roll number of the student.
+               4. The hard copy of the assignment is to be submitted on or before XXXXXXX.
+
+
+
+
+
+
+Signature of the Faculty
+
+
+
+
+
+
+
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Department of AIML  
+A.Y: 2026-2027
+B.E. III SEMESTER 
+Name of the Subject: DECO, U24EC304
+Marks List of Assignment:                                                                Max. Marks - 10
+S. No.
+	H.T. No. of the Student
+	Assignment-1
+	Assignment-2
+	Assignment-3
+	Best of any Two Average
+	1.
+	
+
+	
+
+	
+
+	
+
+	
+
+	2.
+	
+
+	
+
+	
+
+	
+
+	
+
+	3.
+	
+
+	
+
+	
+
+	
+
+	
+
+	4.
+	
+
+	
+
+	
+
+	
+
+	
+
+	5.
+	
+
+	
+
+	
+
+	
+
+	
+
+	6.
+	
+
+	
+
+	
+
+	
+
+	
+
+	7.
+	
+
+	
+
+	
+
+	
+
+	
+
+	8.
+	
+
+	
+
+	
+
+	
+
+	
+
+	9.
+	
+
+	
+
+	
+
+	
+
+	
+
+	10.
+	
+
+	
+
+	
+
+	
+
+	
+
+	11.
+	
+
+	
+
+	
+
+	
+
+	
+
+	12.
+	
+
+	
+
+	
+
+	
+
+	
+
+	13.
+	
+
+	
+
+	
+
+	
+
+	
+
+	14.
+	
+
+	
+
+	
+
+	
+
+	
+
+	15.
+	
+
+	
+
+	
+
+	
+
+	
+
+	16.
+	
+
+	
+
+	
+
+	
+
+	
+
+	17.
+	
+
+	
+
+	
+
+	
+
+	
+
+	18.
+	
+
+	
+
+	
+
+	
+
+	
+
+	19.
+	
+
+	
+
+	
+
+	
+
+	
+
+	20.
+	
+
+	
+
+	
+
+	
+
+	
+
+	21.
+	
+
+	
+
+	
+
+	
+
+	
+
+	22.
+	
+
+	
+
+	
+
+	
+
+	
+
+	23.
+	
+
+	
+
+	
+
+	
+
+	
+
+	24.
+	
+
+	
+
+	
+
+	
+
+	
+
+	25.
+	
+
+	
+
+	
+
+	
+
+	
+
+	26.
+	
+
+	
+
+	
+
+	
+
+	
+
+	27.
+	
+
+	
+
+	
+
+	
+
+	
+
+	28.
+	
+
+	
+
+	
+
+	
+
+	
+
+	29.
+	
+
+	
+
+	
+
+	
+
+	
+
+	30.
+	
+
+	
+
+	
+
+	
+
+	
+
+	45.
+	
+
+	
+
+	
+
+	
+
+	
+
+	32.
+	
+
+	
+
+	
+
+	
+
+	
+
+	33.
+	
+
+	
+
+	
+
+	
+
+	
+
+	34.
+	
+
+	
+
+	
+
+	
+
+	
+
+	45.
+	
+
+	
+
+	
+
+	
+
+	
+
+	36.
+	
+
+	
+
+	
+
+	
+
+	
+
+	37.
+	
+
+	
+
+	
+
+	
+
+	
+
+	45.
+	
+
+	
+
+	
+
+	
+
+	
+
+	39.
+	
+
+	
+
+	
+
+	
+
+	
+
+	40.
+	
+
+	
+
+	
+
+	
+
+	
+
+	41.
+	
+
+	
+
+	
+
+	
+
+	
+
+	42.
+	
+
+	
+
+	
+
+	
+
+	
+
+	43.
+	
+
+	
+
+	
+
+	
+
+	
+
+	44.
+	
+
+	
+
+	
+
+	
+
+	
+
+	45.
+	
+
+	
+
+	
+
+	
+
+	
+
+	46.
+	
+
+	
+
+	
+
+	
+
+	
+
+	47.
+	
+
+	
+
+	
+
+	
+
+	
+
+	48.
+	
+
+	
+
+	
+
+	
+
+	
+
+	49.
+	
+
+	
+
+	
+
+	
+
+	
+
+	50.
+	
+
+	
+
+	
+
+	
+
+	
+
+	31.
+	
+
+	
+
+	
+
+	
+
+	
+
+	52.
+	
+
+	
+
+	
+
+	
+
+	
+
+	53.
+	
+
+	
+
+	
+
+	
+
+	
+
+	54.
+	
+
+	
+
+	
+
+	
+
+	
+
+	55.
+	
+
+	
+
+	
+
+	
+
+	
+
+	56.
+	
+
+	
+
+	
+
+	
+
+	
+
+	57.
+	
+
+	
+
+	
+
+	
+
+	
+
+	58.
+	
+
+	
+
+	
+
+	
+
+	
+
+	59.
+	
+
+	
+
+	
+
+	
+
+	
+
+	60
+	
+
+	
+
+	
+
+	
+
+	
+
+	61
+	
+
+	
+
+	
+
+	
+
+	
+
+	Signature of the Faculty
+________________
+
+
+
+
+LORDS INSTITUTE OF ENGINEERING & TECHNOLOGY  
+(UGC Autonomous)
+Approved by AICTE | Affiliated to Osmania University | Estd.2003.
+Department of AIML  
+A.Y: 2026-2027
+B.E. III SEMESTER 
+Name of the Subject: DECO, U24EC304
+List of the Students Identified as Slow Learners with Indicators
+Roll No.
+	Name of the Student
+	Remedial Measure that has been undertaken
+	
+
+	
+
+	Remedial Classes 5
+	
+
+	
+
+	Remedial Classes 5
+	
+
+	
+
+	Remedial Classes 5
+	
+
+	
+
+	Remedial Classes 5
+	
+
+	
+
+	Remedial Classes 5
+	
+
+	
+
+	Remedial Classes 5
+	
+
+	
+
+	Remedial Classes 5
+	
+
+	
+
+	Remedial Classes 5
+	
+
+	
+
+	Remedial Classes 5
+	
+
+	
+
+	Remedial Classes 5
+	
+
+	
+
+	Remedial Classes 5

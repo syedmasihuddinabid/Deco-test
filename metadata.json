@@ -1,0 +1,6 @@
+{
+  "name": "DECO Exam Prep — U24EC304",
+  "description": "Complete examination preparation workspace for Digital Electronics & Computer Organization (U24EC304) with unit-wise syllabus tracking, solved CIE/SEE question banks, past university papers, mock quizzes, and interactive hardware simulators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
